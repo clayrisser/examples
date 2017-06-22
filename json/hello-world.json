@@ -1,0 +1,9 @@
+{
+    "someObject": {
+        "hello": "world",
+        "someArray": [
+            "hello",
+            "world"
+        ]
+    }
+}
